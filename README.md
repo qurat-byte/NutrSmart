@@ -43,9 +43,11 @@ Nutri_Smart/
 - Python 3.8+
 - MySQL Server (running locally)
 - The following Python packages:
+- 
     mysql-connector-python
+  
     matplotlib
--Install them with:
+-Install them with:   
 pip install mysql-connector-python matplotlib
 
 ## Setup
@@ -74,14 +76,20 @@ python main.py
 
 ## Default Admin Account
  Username  Password 
+ 
  admin     admin123
 
 ## Database Schema
 Table      Description 
+
 users      Login credentials and roles (user / admin) 
+
 profiles   Health data per user (age, weight, height, goals, conditions) 
+
 foods      Food items with calorie and macronutrient data
+
 food_logs  Daily meal entries linking users to food items
+
 diet_plans Generated meal plan recommendations per user
 
 ## Supported Health Conditions
