@@ -13,12 +13,11 @@
 - **Admin Panel** — Manage registered users and the food database (add, edit, and delete food items).
 
 ## Tech Stack
- Layer      Technology 
- Language   Python 3 
- GUI        Tkinter / ttk 
- Database   MySQL 
- Charts     Matplotlib 
- DB Driver  mysql-connector-python 
+ Language:   Python 3
+ GUI     :  Tkinter / ttk 
+ Database:   MySQL 
+ Charts  :  Matplotlib 
+ DB Driver:  mysql-connector-python 
 
 ## Project Structure
 Nutri_Smart/
