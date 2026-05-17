@@ -14,9 +14,13 @@
 
 ## Tech Stack
  Language:   Python 3
+ 
  GUI     :  Tkinter / ttk
+ 
  Database:   MySQL
+ 
  Charts  :  Matplotlib
+ 
  DB Driver:  mysql-connector-python
 
 ## Project Structure
