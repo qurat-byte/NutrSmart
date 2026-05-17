@@ -14,6 +14,7 @@
 
 ## Tech Stack
  Language:   Python 3
+ 
  GUI     :  Tkinter / ttk 
  Database:   MySQL 
  Charts  :  Matplotlib 
